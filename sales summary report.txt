@@ -1,0 +1,21 @@
+📊 Sales Insights Dashboard 2023 – Summary Story
+The Sales Insights Dashboard 2023 provides a comprehensive overview of the company’s sales performance throughout the year. Key highlights are:
+
+Total Sales: $4.86M across 73K units with an average price of $66.38.
+
+Top Sales Channel: Fair dominates with $3.6M in sales, followed by Mazon ($0.8M).
+
+Weekday vs. Weekend Sales: Weekdays contribute significantly more with $3.5M vs. $1.4M on weekends.
+
+Top Performing Category: End Tables lead with $1.4M in sales.
+
+Event Performance: Most sales came from regular days (Normal - 87.4%). Promotional events like Wayday had lesser impact.
+
+Seasonal Insights: Spring was the top-performing season with 30% of sales ($1.46M), followed by Summer and Fall.
+
+Warehouse Region Impact: The US 3PL PA warehouse contributed over half of total regional sales ($2.5M).
+
+Day-wise Trends: Sales and country count peak on Monday and Sunday, gradually declining towards the weekend.
+
+Sales Distribution by Category and Channel is diversified, but Fair is the primary channel across most top categories.
+
