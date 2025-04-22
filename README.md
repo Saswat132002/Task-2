@@ -25,12 +25,6 @@ The dashboard visualizes:
 - **Event Influence:** Minimal impact from promotional events; regular sales days dominate.
 - **Warehouse Contribution:** US 3PL PA alone contributed $2.5M.
 
-## 📂 Files
-
-- `Sales_Insights_Dashboard_2023.pbix` - Power BI Dashboard file *(not included here, replace with actual file if uploading)*
-- `Screenshot_2025-04-22.png` - Dashboard image preview
-- `README.md` - Documentation file (you are here)
-
 ## 🧰 Tools Used
 
 - **Power BI** for data modeling and visualization
